@@ -164,7 +164,9 @@ button {
     gap: 16px;
 }
 
-/* Styles quote text */
+
+
+/* Styles quote author */
 .quote p {
     margin: 0 160px;
     font-weight: 900;
