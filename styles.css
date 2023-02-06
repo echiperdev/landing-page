@@ -84,6 +84,13 @@ button {
     gap: 16 px;
 }
 
+/* Styles showcase title */
+.welcome h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
 /* Aligns showcase 'Sign up' button */
 .welcome button {
     align-self: flex-start; /* Aligns button to the right hand side of the welcoem container */
