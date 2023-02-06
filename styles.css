@@ -21,3 +21,9 @@ ul {
     display: flex;;
     gap: 32px;
 }
+
+/* Styles links */
+a {
+    text-decoration: none; /* removes link underline */
+    color: #E5E7EB;
+}
