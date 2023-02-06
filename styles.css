@@ -198,3 +198,16 @@ button {
     font-weight: 700;
     color: #F9FAF8;
 }
+
+/* Styles call to action 'Sign up' button */
+.call button {
+    border: 2px solid #E5E7EB;
+}
+
+
+/* Styles footer */
+.footer {
+    padding: 32px 0;
+    text-align: center; /* Alternative to using 'display: flex' and 'justify content: center' */
+}
+
