@@ -66,3 +66,12 @@ button {
     font-weight: 900;
     color: #F9FAF8;
 }
+
+/* Styles showcase area */
+.showcase {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+}
