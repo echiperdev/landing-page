@@ -75,3 +75,12 @@ button {
     align-items: center;
     gap: 80px;
 }
+
+/* Styles showcase welcome container */
+.welcome {
+    display: flex;
+    flex-direction: column;
+    flex: 1; /* SOLVES: When zooming past 250% in maxied browser window, a white border appears on the right hand side */
+    gap: 16 px;
+}
+
