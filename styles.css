@@ -170,3 +170,15 @@ button {
     font-weight: 900;
     align-self: flex-end;
 }
+
+/* Sets call to action parameters */
+.call {
+    margin: 80px 460px;
+    padding: 60px 160px;
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
