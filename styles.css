@@ -120,12 +120,22 @@ button {
     font-weight: 900;
 }
 
-/* Styles information container */
+/* Set information container parameters */
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     gap: 56px;
+}
+
+/* Set info container parameters */
+.container > .info {
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 0;
 }
 
