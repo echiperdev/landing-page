@@ -37,3 +37,9 @@ button {
     color: #F9FAF8;
     font-size: 18px;
 }
+
+/* Sets common parameters for hero and footer */
+.hero, .footer {
+    background: #1F2937;
+    color: #E5E7EB; /* higher contrast white */
+}
