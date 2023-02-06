@@ -13,3 +13,11 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
 }
+
+/* Styles unordered list */
+ul {
+    list-style-type: none; /* removes bullet points from header links */
+    color: #E5E7EB;
+    display: flex;;
+    gap: 32px;
+}
