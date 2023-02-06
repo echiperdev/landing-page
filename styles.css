@@ -191,3 +191,10 @@ button {
     align-items: flex-start;
     flex: 1;
 }
+
+/* Styles call to action title */
+.summon h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
