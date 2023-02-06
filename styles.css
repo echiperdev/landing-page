@@ -84,3 +84,8 @@ button {
     gap: 16 px;
 }
 
+/* Aligns showcase 'Sign up' button */
+.welcome button {
+    align-self: flex-start; /* Aligns button to the right hand side of the welcoem container */
+}
+
