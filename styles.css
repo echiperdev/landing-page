@@ -114,3 +114,9 @@ button {
     gap: 48px;
 }
 
+/* Styles information section title */
+information h1 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
