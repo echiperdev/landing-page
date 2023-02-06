@@ -99,3 +99,7 @@ button {
     flex: 2; /* See comment on line 90 & ensures placeholder grows twice as much as welcome when zooming out */
 }
 
+/* Styles placeholder paragraph */
+.placeholder p {
+    text-align: center;
+}
