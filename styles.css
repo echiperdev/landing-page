@@ -163,3 +163,10 @@ button {
     align-items: center;
     gap: 16px;
 }
+
+/* Styles quote text */
+.quote p {
+    margin: 0 160px;
+    font-weight: 900;
+    align-self: flex-end;
+}
