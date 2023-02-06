@@ -89,3 +89,13 @@ button {
     align-self: flex-start; /* Aligns button to the right hand side of the welcoem container */
 }
 
+/* Styles placeholder */
+.placeholder {
+    height: 240px;
+    background-color: #8F918E; /* Dark grey colour */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 2; /* See comment on line 90 & ensures placeholder grows twice as much as welcome when zooming out */
+}
+
