@@ -152,3 +152,14 @@ button {
 .info p {
     text-align: center;
 }
+
+/* Set quote section parameters */
+.quote {
+    padding: 80px 400px 128px 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
