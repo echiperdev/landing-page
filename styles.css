@@ -8,3 +8,8 @@
     padding: 0;
 }
 
+/* Applies font family and default size */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
