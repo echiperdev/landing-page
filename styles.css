@@ -43,3 +43,11 @@ button {
     background: #1F2937;
     color: #E5E7EB; /* higher contrast white */
 }
+
+/* Styles hero */
+.hero {
+    padding: 32px 400px 160px 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
