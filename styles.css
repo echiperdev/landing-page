@@ -182,3 +182,12 @@ button {
     justify-content: space-between;
     align-items: center;
 }
+
+/* Sets call to action text container parameters */
+.call > .summon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex: 1;
+}
