@@ -164,7 +164,13 @@ button {
     gap: 16px;
 }
 
-
+/* Styles quote text */
+.quote h1 {
+    margin: 0 160px;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+}
 
 /* Styles quote author */
 .quote p {
